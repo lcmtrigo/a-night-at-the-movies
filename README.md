@@ -1,2 +1,2 @@
 # a-night-at-the-movies
-Ruby command line script
+Ruby command line app from Codeacademy's Ruby Course
